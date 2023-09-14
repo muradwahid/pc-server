@@ -27,12 +27,7 @@ function run() {
         data: allProducts,
       });
     });
-    app.get('/categories', async (req, res) => {
-      const allCategories = await categories.find({}).toArray();
-      res.status(200).json({
-        data: allCategories,
-      });
-    });
+
 
     app.listen(port, () => {
       console.log(`server is listening on ${port}`);

@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "64c5ede66e2f1d910c91c827",
+    "categoris": "CPU_Processor",
+    "name": "CPU / Processor",
+    "image": "https://www.pchouse.com.bd/image/cache/catalog/banner/category/category_processor-180x180.png.webp"
+  },
+  {
+    "_id": "64c5ede66e2f1d910c91c828",
+    "categoris": "Motherboard",
+    "name": "Motherboard",
+    "image": "https://www.pchouse.com.bd/image/cache/catalog/banner/category/motherboard-180x180.png.webp"
+  },
+  {
+    "_id": "64c5ede66e2f1d910c91c829",
+    "categoris": "RAM",
+    "name": "RAM",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/GPU.svg"
+  },
+  {
+    "_id": "64c5ede66e2f1d910c91c82a",
+    "categoris": "Power_Supply_Unit",
+    "name": "Power Supply Unit",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/speaker.svg"
+  },
+  {
+    "_id": "64c5ede66e2f1d910c91c82b",
+    "categoris": "Storage_Device",
+    "name": "Storage Device",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/GPU.svg"
+  },
+  {
+    "_id": "64c5ede66e2f1d910c91c82c",
+    "categoris": "Monitor",
+    "name": "Monitor",
+    "image": "https://www.pchouse.com.bd/image/cache/catalog/banner/category/category-monitor-180x180.png.webp"
+  },
+  {
+    "_id": "64c5ede66e2f1d910c91c82d",
+    "categoris": "Others",
+    "name": "Others",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/gaming.svg"
+  }
+]
